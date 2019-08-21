@@ -1,0 +1,3 @@
+git config --global alias.[someName] "log --all --graph --decorate --oneline"
+
+gedit ./gitconfig ---> check
