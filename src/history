@@ -1,0 +1,15 @@
+git help [option] : git help log
+
+
+git log
+
+git log --abbrev-commit
+
+git log --oneline --graph --decorate
+
+git log [hash1]...[hash2]  ---> show log in that range
+
+git log --since="3 days ago"
+got log -- [filename]
+
+got log --follow -- [file/path]

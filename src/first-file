@@ -1,3 +1,13 @@
 git add --> move file to staging area
 git commit -m ""  --> move file to local repository
 git push origin master--> push to remote repository
+
+git commit -am ""  ---> shortcut for got add and git commit, onlu work for tracked files
+
+git ls-files ---> show all tracked files
+
+
+git pull origin master
+
+
+git add .  ----> add all

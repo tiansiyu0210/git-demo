@@ -1,0 +1,15 @@
+git reset HEAD [fileName] ---> move file from stating area to working directory
+
+
+git checkout -- [file_name] ---> revert file changes in the working directory
+
+git mv [old file name] [new file name/new dir] ---> rename/move the file
+
+
+git rm [filename] ----> remove a file
+
+
+git reset HEAD [filename]
+then
+git checkout -- [filename]   ---> unremove the file
+
