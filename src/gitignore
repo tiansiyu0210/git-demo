@@ -1,0 +1,5 @@
+gedit .gitignore
+
+file : test.txt
+pattern : *.text
+folder : test/
